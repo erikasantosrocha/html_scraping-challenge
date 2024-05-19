@@ -1,4 +1,4 @@
-### Data Collection - Web Scraping
+# Data Collection - Web Scraping
 
 This challenge consists of two technical products: The first part will scrape titles and preview text from Mars news articles; and on part two, it will scrape and analyze Mars weather data, which exists in a table.
 
